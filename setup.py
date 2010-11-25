@@ -32,7 +32,7 @@ long_description = UltraMagicString(u'\n\n'.join((
 
 setup(
     name = 'django-pandora',
-    version = '0.1.0pre',
+    version = '0.1.0',
     url = 'https://github.com/gregmuellegger/django-pandora',
     license = 'BSD',
     description = "Opening Pandora's box by making django's request object available in a thread local.",
