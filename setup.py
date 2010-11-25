@@ -35,7 +35,7 @@ setup(
     version = '0.1.0pre',
     url = 'https://github.com/gregmuellegger/django-pandora',
     license = 'BSD',
-    description = '',
+    description = "Opening Pandora's box by making django's request object available in a thread local.",
     long_description = long_description,
     author = UltraMagicString('Gregor Müllegger'),
     author_email = 'gregor@muellegger.de',
